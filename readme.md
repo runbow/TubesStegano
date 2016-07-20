@@ -1,8 +1,5 @@
 # Steganografi
 
-Tubes 1 Kriptografi
-
-## Deadline 27 Februari 2015 pukul 17.00
 
 ## Spesifikasi
 
@@ -32,24 +29,9 @@ Tubes 1 Kriptografi
 
 selengkapnya [lihat disini](http://informatika.stei.itb.ac.id/~rinaldi.munir/Kriptografi/2014-2015/Tubes1-Kripto-2015.doc)
 
-## Deliverable
+## Note
 
-1. source code
-
-2. laporan (*pdf & hardcopy)
-
-  a. Teori singkat (steganografi, metode modifikasi LSB standard, metode modifikasi LSB dari Liao dkk,  Metode modifikasi LSB dari Swain.
-
-  b. Implementasi program, termasuk : rancangan program. 
-
-  c. Pengujian program dan analisis hasil. Uji program dengan bermacam-macam citra bitmap dan bermacam-macam file pesan. 
-
-  d. Pengujian kinerja seperti yang dijelaskan pada butir 12 pada spesifikasi program.
-
-  e. Kesimpulan dari hasil implementasi.
-
-  f. Tampilkan foto anda bertiga di cover laporan sebagai pengganti logo gajah.
-
+Created Using Microsoft Visual Studio
 
 ## Paper rujukan
 1. Liao, X., Wena, Q., Zhang, J. (2011): [A steganographic method for digital images with four-pixel differencing and modified LSB substitution](http://informatika.stei.itb.ac.id/~rinaldi.munir/Kriptografi/2014-2015/Paper-1.pdf) , Journal of Visual Communication and Image Representation. 2011; 22:1–8.
