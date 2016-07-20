@@ -1,0 +1,17 @@
+C:\Users\TOSHIBA\Documents\RAMA\KULIAH\Semester 8\kriptografi\tubesjarkom\TubesStegano\TubesStegano\bin\Debug\TubesStegano.exe.config
+C:\Users\TOSHIBA\Documents\RAMA\KULIAH\Semester 8\kriptografi\tubesjarkom\TubesStegano\TubesStegano\bin\Debug\TubesStegano.exe
+C:\Users\TOSHIBA\Documents\RAMA\KULIAH\Semester 8\kriptografi\tubesjarkom\TubesStegano\TubesStegano\bin\Debug\TubesStegano.pdb
+C:\Users\TOSHIBA\Documents\RAMA\KULIAH\Semester 8\kriptografi\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.Form1.resources
+C:\Users\TOSHIBA\Documents\RAMA\KULIAH\Semester 8\kriptografi\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.Properties.Resources.resources
+C:\Users\TOSHIBA\Documents\RAMA\KULIAH\Semester 8\kriptografi\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Documents\RAMA\KULIAH\Semester 8\kriptografi\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.exe
+C:\Users\TOSHIBA\Documents\RAMA\KULIAH\Semester 8\kriptografi\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.pdb
+D:\Project\GitHub\tubesjarkom\TubesStegano\TubesStegano\bin\Debug\TubesStegano.exe.config
+D:\Project\GitHub\tubesjarkom\TubesStegano\TubesStegano\bin\Debug\TubesStegano.exe
+D:\Project\GitHub\tubesjarkom\TubesStegano\TubesStegano\bin\Debug\TubesStegano.pdb
+D:\Project\GitHub\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.SteganoForm.resources
+D:\Project\GitHub\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.Properties.Resources.resources
+D:\Project\GitHub\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.csproj.GenerateResource.Cache
+D:\Project\GitHub\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.exe
+D:\Project\GitHub\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.pdb
+D:\Project\GitHub\tubesjarkom\TubesStegano\TubesStegano\obj\Debug\TubesStegano.csprojResolveAssemblyReference.cache

@@ -1,0 +1,19 @@
+baboon	standar	4	9
+capacity	786432	2580840	2985447
+psnr	68.306	43.443	51.131
+			
+house	standar	4	9
+capacity	196608	356380	497307
+psnr	62.334	42.239	52.6009
+			
+jelly	standar	4	9
+capacity	196608	2581004	400575
+psnr	51.3146	51.538	56.2088
+			
+lena	standar	4	9
+capacity	786432	1419112	1938333
+psnr	68.3075	44.5532	60.38677
+			
+pepper	standar	4	9
+capacity	786432	1602888	2036100
+psnr	68.3379	40.8612	50.8072
